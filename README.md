@@ -122,6 +122,7 @@ int main() {
 $ ./sem.o 
 
 ![catfile](./images5/catfile1.png)
+
 $ ipcs
 
 ![catfile](./images5/catfile2.png)
